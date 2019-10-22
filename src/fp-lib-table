@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name logo_up)(type KiCad)(uri C:/git/bdg/hardware/logo/logo_up.pretty)(options "")(descr ""))
+)
